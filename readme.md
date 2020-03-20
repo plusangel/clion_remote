@@ -19,3 +19,6 @@ stop:
 ```
 docker stop clion_remote_env
 ```
+
+## Maintainer
+angelos plastropoulos
