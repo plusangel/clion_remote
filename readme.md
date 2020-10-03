@@ -1,7 +1,7 @@
 # Development environment with the most recent CMake and Boost Asio
 
 In Clion, we can use remote host to support the development. 
-To setup the environment follow this tutorial. Recently, studying Josh's Lospinoso
+To setup the environment follow this [tutorial](https://blog.jetbrains.com/clion/2020/01/using-docker-with-clion/). Recently, studying Josh's Lospinoso
 "C++ crash course", I needed to have the most recent boost libraries version instead
 of default 1.65.1 that comes with Ubuntu 18.04. 
 
